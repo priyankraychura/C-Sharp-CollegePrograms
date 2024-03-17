@@ -69,8 +69,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR30_OutEg", "PR30_OutEg\PR
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PR31_WinFrom_HelloWorld", "PR31_WinFrom_HelloWorld\PR31_WinFrom_HelloWorld.csproj", "{F75DABDB-CBDF-4013-B109-6761EC20DF70}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PR32_MessageBox_ShowMethod", "PR31_MessageBox_ShowMethod\PR32_MessageBox_ShowMethod.csproj", "{134D4F01-BCD3-42A2-847B-D54C68ABBA29}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PR33_MessageBox_YesNo", "PR33_MessageBox_YesNo\PR33_MessageBox_YesNo.csproj", "{B1DBDC76-BE9A-4E63-8F83-7F68EE7194C7}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PR34_MessageBox_Icon", "PR34_MessageBox_Icon\PR34_MessageBox_Icon.csproj", "{3A461B8A-8647-4103-A552-1369A5E6FC93}"
@@ -97,21 +95,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PR44_KeyDownEvent", "PR44_K
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PR45_TextChangedEvent", "PR45_TextChangedEvent\PR45_TextChangedEvent.csproj", "{0EE3CCFE-DDAD-49C1-BFEE-7D05BC2076BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR46_RadioButton", "PR46_RadioButton\PR46_RadioButton.csproj", "{9ABCE2B2-667A-45A6-B7E6-3C00224A2FEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PR46_RadioButton", "PR46_RadioButton\PR46_RadioButton.csproj", "{9ABCE2B2-667A-45A6-B7E6-3C00224A2FEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR47_CheckBox", "PR47_CheckBox\PR47_CheckBox.csproj", "{C6FF84FA-217C-4317-906D-649936548744}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PR47_CheckBox", "PR47_CheckBox\PR47_CheckBox.csproj", "{C6FF84FA-217C-4317-906D-649936548744}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR48_PictureBox", "PR48_PictureBox\PR48_PictureBox.csproj", "{AD0402F9-B4E7-4C58-87B6-C37333D47037}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PR48_PictureBox", "PR48_PictureBox\PR48_PictureBox.csproj", "{AD0402F9-B4E7-4C58-87B6-C37333D47037}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR49_ComboBox", "PR49_ComboBox\PR49_ComboBox.csproj", "{EC0FA206-2AE9-4373-98A2-4D052063BE4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PR49_ComboBox", "PR49_ComboBox\PR49_ComboBox.csproj", "{EC0FA206-2AE9-4373-98A2-4D052063BE4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR50_DropDownStyle", "PR50_DropDownStyle\PR50_DropDownStyle.csproj", "{874BBC2C-7F19-4DC0-8D05-D62622CA0F05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PR50_DropDownStyle", "PR50_DropDownStyle\PR50_DropDownStyle.csproj", "{874BBC2C-7F19-4DC0-8D05-D62622CA0F05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR51_ComboBoxSelectedIndexChanged", "PR51_ComboBoxSelectedIndexChanged\PR51_ComboBoxSelectedIndexChanged.csproj", "{B2F0DA62-0F00-48C4-B9D9-9CB1574153CD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PR51_ComboBoxSelectedIndexChanged", "PR51_ComboBoxSelectedIndexChanged\PR51_ComboBoxSelectedIndexChanged.csproj", "{B2F0DA62-0F00-48C4-B9D9-9CB1574153CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR52_ListBox", "PR52_ListBox\PR52_ListBox.csproj", "{739F7B4C-E929-4B95-BCB1-8C389D2FFCB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PR52_ListBox", "PR52_ListBox\PR52_ListBox.csproj", "{739F7B4C-E929-4B95-BCB1-8C389D2FFCB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR53_ListBoxMultiSelection", "PR53_ListBoxMultiSelection\PR53_ListBoxMultiSelection.csproj", "{6A8CE40A-BA7E-4EF1-ACC2-D7D1E7B56CE1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PR53_ListBoxMultiSelection", "PR53_ListBoxMultiSelection\PR53_ListBoxMultiSelection.csproj", "{6A8CE40A-BA7E-4EF1-ACC2-D7D1E7B56CE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PR32_MessageBoxShowMethod", "PR32_MessageBoxShowMethod\PR32_MessageBoxShowMethod.csproj", "{33786A1E-3336-45F9-B302-E3D20CDEC263}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -251,10 +251,6 @@ Global
 		{F75DABDB-CBDF-4013-B109-6761EC20DF70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F75DABDB-CBDF-4013-B109-6761EC20DF70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F75DABDB-CBDF-4013-B109-6761EC20DF70}.Release|Any CPU.Build.0 = Release|Any CPU
-		{134D4F01-BCD3-42A2-847B-D54C68ABBA29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{134D4F01-BCD3-42A2-847B-D54C68ABBA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{134D4F01-BCD3-42A2-847B-D54C68ABBA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{134D4F01-BCD3-42A2-847B-D54C68ABBA29}.Release|Any CPU.Build.0 = Release|Any CPU
 		{B1DBDC76-BE9A-4E63-8F83-7F68EE7194C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B1DBDC76-BE9A-4E63-8F83-7F68EE7194C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B1DBDC76-BE9A-4E63-8F83-7F68EE7194C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -339,6 +335,10 @@ Global
 		{6A8CE40A-BA7E-4EF1-ACC2-D7D1E7B56CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6A8CE40A-BA7E-4EF1-ACC2-D7D1E7B56CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6A8CE40A-BA7E-4EF1-ACC2-D7D1E7B56CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33786A1E-3336-45F9-B302-E3D20CDEC263}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33786A1E-3336-45F9-B302-E3D20CDEC263}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33786A1E-3336-45F9-B302-E3D20CDEC263}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33786A1E-3336-45F9-B302-E3D20CDEC263}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
